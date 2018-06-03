@@ -141,7 +141,7 @@ Try changing your code and see:
 ```text
 Uncaught TypeError: Cannot read property 'innerHTML' of null
     at VM43 pen.js:2
-```
+```a
 
 Well `null` is like **nothing**. So the browser is telling us it couldn't find
 the `innerHMTL` property on **null**. Does that kind of seem like the error you
